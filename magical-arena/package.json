@@ -1,0 +1,14 @@
+{
+  "name": "magical-arena",
+  "version": "1.0.0",
+  "description": "A magical arena where two players engage in a turn-based combat.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/runner.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
